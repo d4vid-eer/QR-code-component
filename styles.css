@@ -13,6 +13,11 @@
 html{
     font-size: 14px;
 }
+@media screen and (max-width: 375px) {
+    html{
+        font-size: 11px;
+    }
+}
 body{
     height: 100%;
     width: 100%;
